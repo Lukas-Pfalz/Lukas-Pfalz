@@ -1,7 +1,4 @@
-## Hi there 👋
-
-I'm Lukas Pfalz, a developer based in Maryland, USA
-# Hey there 👋
+## Hey there 👋
 
 I'm Lukas, a CS undergrad focused on robotics, computer vision, and on-device deep learning.
 
